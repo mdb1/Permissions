@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "UIKitHelpers",
+        "repositoryURL": "https://github.com/mdb1/UIKitHelpers",
+        "state": {
+          "branch": null,
+          "revision": "7f1dbdbfbc08aa4f2451f2c961e44dec8cdcbdd6",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
